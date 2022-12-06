@@ -1,0 +1,12 @@
+What is the best subject?
+A. Computer Science
+B. Math
+C. English
+D. Phys Ed
+A
+What is the best language?
+A. Python
+B. PHP
+C. Scratch
+D. Java
+A
